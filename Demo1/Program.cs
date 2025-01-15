@@ -4,6 +4,12 @@
 //Console.WriteLine(a);
 //Console.WriteLine($"The price us {2344.233:C}.");
 
+
+
+/// <summary>
+/// // Bài 1: Tính trung bình cộng các số chia hết cho 3 < 1000
+/// </summary>
+
 class Program
 {
     static double Average(int limit)
